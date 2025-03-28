@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #333 url(images/overlay.png) repeat;
+	background: #333 url(Images/overlay.png) repeat;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	font-weight: 400;
@@ -227,12 +227,12 @@ hr {
 
 #animated-img {
 	position: relative;
-	left: center;
+	left: center;	
 	width: 100px;
 	height: 100px;
 	align-items: center;
 	margin: 0 auto;
-	background: url('images/estrellas5.svg') no-repeat center/contain;
+	background: url('Images/estrellas5.svg') no-repeat center/contain;
 	animation: changeImage 6s infinite steps(9); /* Animación infinita */
 }
 
@@ -362,7 +362,7 @@ ul.style3 .first {
 		overflow: hidden;
 		padding: 5em 0em;
 		background: rgba(0,0,0,.02);
-		background-image: url(images/overlay.png);
+		background-image: url(Images/overlay.png);
 		background-repeat: repeat;
 		border-top: 1px solid rgba(0,0,0,.05);
 	}
@@ -475,16 +475,16 @@ ul.style3 .first {
 	
 	  /* Animación con keyframes */
 	  @keyframes changeImage {
-		0% { background-image: url('images/estrellas5.svg'); }
-		11.11% { background-image: url('images/estrellas6.svg'); }
-		22.22% { background-image: url('images/estrellas7.svg'); }
-		33.33% { background-image: url('images/estrellas8.svg'); }
-		44.44% { background-image: url('images/estrellas9.svg'); }
-		55.55% { background-image: url('images/estrellas1.svg'); }
-		66.66% { background-image: url('images/estrellas2.svg'); }
-		77.77% { background-image: url('images/estrellas3.svg'); }
-		88.88% { background-image: url('images/estrellas4.svg'); }
-		100% { background-image: url('images/estrellas5.svg'); }
+		0% { background-image: url('Images/estrellas5.svg'); }
+		11.11% { background-image: url('Images/estrellas6.svg'); }
+		22.22% { background-image: url('Images/estrellas7.svg'); }
+		33.33% { background-image: url('Images/estrellas8.svg'); }
+		44.44% { background-image: url('Images/estrellas9.svg'); }
+		55.55% { background-image: url('Images/estrellas1.svg'); }
+		66.66% { background-image: url('Images/estrellas2.svg'); }
+		77.77% { background-image: url('Images/estrellas3.svg'); }
+		88.88% { background-image: url('Images/estrellas4.svg'); }
+		100% { background-image: url('Images/estrellas5.svg'); }
 		
 	  }
 	
