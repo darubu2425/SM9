@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="boton_abajo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.68862935"
+     inkscape:cx="375.38336"
+     inkscape:cy="477.03456"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch79"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop79" />
+    </linearGradient>
+    <linearGradient
+       id="swatch58"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop58" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-108.95926 : 95.882131 : 1"
+       inkscape:vp_y="0 : 1342.0189 : 0"
+       inkscape:vp_z="450.74123 : 147.96045 : 1"
+       inkscape:persp3d-origin="122.94568 : 29.452191 : 1"
+       id="perspective1" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter86"
+       x="-0.073203917"
+       y="-0.15224278"
+       width="1.1464078"
+       height="1.3044856">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.7486346"
+         id="feGaussianBlur86" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter89"
+       x="-0.53389093"
+       y="-3.5590389"
+       width="2.0677819"
+       height="8.1180777">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.112876"
+         id="feGaussianBlur89" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.063389,7.6843465)">
+    <rect
+       style="opacity:0.726852;mix-blend-mode:soft-light;fill:#000000;fill-opacity:1;stroke-width:0.42132"
+       id="rect79"
+       width="196.63586"
+       height="110.56496"
+       x="18.33518"
+       y="12.29494"
+       ry="52.141434" />
+    <path
+       id="rect79-8"
+       style="fill:#e6e6e6;fill-opacity:0.393035;stroke-width:0.264583;filter:url(#filter86)"
+       d="m 103.08458,117.59586 c -6.248936,5.81455 -10.151316,14.11396 -10.151316,23.3624 v 3.84214 c 0,17.66708 14.222956,31.89004 31.890056,31.89004 h 63.01164 c 12.10704,0 22.59449,-6.6807 27.99778,-16.57056 -5.68827,5.29285 -13.32008,8.52764 -21.73873,8.52764 h -63.01164 c -17.6671,0 -31.890056,-14.22296 -31.890056,-31.89004 v -3.84214 c 0,-5.56006 1.410846,-10.77765 3.892266,-15.31948 z"
+       transform="matrix(1.5508574,0,0,1.6350382,-128.84379,-161.71921)" />
+    <ellipse
+       style="opacity:0.726852;fill:#e6e6e6;fill-opacity:0.393035;stroke-width:0.42132"
+       id="path86"
+       cx="183.39014"
+       cy="44.333683"
+       rx="7.7462616"
+       ry="8.79494" />
+    <ellipse
+       style="opacity:0.726852;fill:#e6e6e6;fill-opacity:0.393035;stroke-width:0.42132"
+       id="path87"
+       cx="197.98885"
+       cy="57.211979"
+       rx="3.8731308"
+       ry="4.083365" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.659722;mix-blend-mode:normal;fill:#e6e6e6;fill-opacity:0;stroke-width:0.264583;filter:url(#filter89)"
+       x="97.206985"
+       y="144.84993"
+       id="text87"><tspan
+         id="tspan87"
+         style="font-size:14.1111px;opacity:1;fill:#e6e6e6;fill-opacity:0;stroke-width:0.264583"
+         x="97.206985"
+         y="144.84993"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.4704px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.42132"
+       x="39.628262"
+       y="76.827652"
+       id="text89"
+       transform="scale(0.97391706,1.0267815)"><tspan
+         sodipodi:role="line"
+         id="tspan89"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;fill-opacity:1;stroke-width:0.42132"
+         x="39.628262"
+         y="76.827652">Visita el Planeta</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke-width:0.264583"
+       id="rect1"
+       width="0.38421732"
+       height="1.9210867"
+       x="133.70763"
+       y="68.390686"
+       ry="0.19210866" />
+  </g>
+</svg>
